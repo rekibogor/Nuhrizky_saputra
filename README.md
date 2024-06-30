@@ -27,7 +27,7 @@
         }
         .biodata p {
             margin: 10px 0;
-            color: #555;
+            color: blue;
         }
         .footer {
             text-align: center;
@@ -41,7 +41,7 @@
         <h1>Biodata Diri</h1>
         <div class="biodata">
             <p><strong>Nama:</strong> Nuhrizky Saputra </p>
-            <p><strong>Tempat, Tanggal Lahir:</strong> Pangkal Duri Ilir, 12-Agustus-2024 </p>
+            <p><strong>Tempat, Tanggal Lahir:</strong> Pangkal Duri Ilir, 12-Agustus-2004 </p>
             <p><strong>Alamat:</strong> Jl. Nurul Hidayah </p>
             <p><strong>Pendidikan :</strong> S1 Sistem Informasi</p>
             <p><strong>Pekerjaan:</strong> Mahasiswa</p>
