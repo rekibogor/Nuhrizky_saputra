@@ -20,14 +20,14 @@
         }
         h1 {
             text-align: center;
-            color: #333;
+            color: black;
         }
         .biodata {
             margin: 20px 0;
         }
         .biodata p {
             margin: 10px 0;
-            color: blue;
+            color: #555;
         }
         .footer {
             text-align: center;
